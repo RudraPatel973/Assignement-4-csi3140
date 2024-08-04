@@ -49,4 +49,4 @@ The Hospital Triage application helps staff and patients better understand wait 
 ![Patient View](screenshots/patient_view.png)
 
 ## Portfolio Link
-[View Project on Portfolio](https://yourportfolio.com/projects/emergency_waitlist)
+[View Project on Portfolio](https://github.com/RudraPatel973/Assignement-4-csi3140)
